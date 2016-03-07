@@ -15,3 +15,7 @@ version v0.8
 	2.4.1	Text tillagd
 	4.1.3	Text tillagd
 	4.2.2	Text tillagd
+
+version v1.0
+	4.1.1 	Text tillagd
+	4.2.6	Text tillagd
