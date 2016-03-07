@@ -9,3 +9,9 @@ version v0.7
 	4.1.2	Text tillagd
 	4.2.2	Ändrad
 	4.2.3	Tillagd
+
+version v0.8
+	1.5 	Bild tillagd "Use Case"
+	2.4.1	Text tillagd
+	4.1.3	Text tillagd
+	4.2.2	Text tillagd
